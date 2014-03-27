@@ -15,11 +15,11 @@ Srilatha
 Edrisi	 (Formatting)
 Chanchal	
 
-#Editorial Team:
+##Editorial Team:
 Tasks:	Page Designing, Web-page, Formatting, Cover-page design, 
 Promotion, 
 
-#Review team:
+##Review team:
 Proof reading, 
 Editing 
 
