@@ -1,4 +1,4 @@
-#OSGeo-India-News-letter
+#OSGeo-India-News-letter Team
 ##Volunteers:
 Gobinath	 (Template)
 Siva Kumar	 (Cover-page design)
